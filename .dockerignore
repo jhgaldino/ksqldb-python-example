@@ -1,0 +1,22 @@
+# Git directory
+.git/
+
+
+.gitignore
+.dockerignore
+
+
+README.md
+
+
+*.log
+
+
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.swp
+*.bak
+*.tmp
+*.md
